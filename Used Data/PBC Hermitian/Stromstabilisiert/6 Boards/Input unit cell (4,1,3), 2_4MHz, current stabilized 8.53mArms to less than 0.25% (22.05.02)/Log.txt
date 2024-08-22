@@ -1,0 +1,106 @@
+[2022-05-02 09:03:36] [CC] ControlCenter.vi started.
+Running version from GIT  branch 'MFLIs'.
+Branch HEAD commit SHA1 hash 790a96df9f03252cb38d80eab99061a438410353.
+The working directory differs from the current head.
+Created this folder and log file.
+[2022-05-02 09:04:06] [CC] New measurement parameter table created.
+[2022-05-02 09:04:43] [CC] Measurement started by 'Hauke Brand'...
+----------------------------------------------------
+Status emails will be sent to users ''
+Settings saved to file: CC_Settings_M1.ini
+Sample under Test: ETI
+Status of running interfaces: 
+
+Further Commentary (Start): 
+pbc impedance check; 6 boards in vertical direction.
+----------------------------------------------------
+[2022-05-02 09:04:43] [FCM] Measurement starting with inner loop counter 1.
+[2022-05-02 09:31:20] [FCM] Measurement finished as planned at inner loop counter 2.
+[2022-05-02 09:31:20] [CC] Measurement ended after 1597 seconds.
+[2022-05-02 09:31:42] [CC] New measurement parameter table created.
+[2022-05-02 09:33:30] [CC] Measurement started by 'Hauke Brand'...
+----------------------------------------------------
+Status emails will be sent to users ''
+Settings saved to file: CC_Settings_M3.ini
+Sample under Test: ETI
+Status of running interfaces: 
+
+Further Commentary (Start): 
+pbc impedance check; 6 boards in vertical direction.
+----------------------------------------------------
+[2022-05-02 09:33:30] [FCM] Measurement starting with inner loop counter 3.
+[2022-05-02 10:32:19] [FCM] Measurement finished as planned at inner loop counter 6.
+[2022-05-02 10:32:20] [CC] Measurement ended after 3529 seconds.
+[2022-05-02 10:34:00] [CC] New measurement parameter table created.
+[2022-05-02 10:48:07] [CC] Exiting ControlCenter.vi.
+[2022-05-02 12:53:23] [CC] ControlCenter.vi started.
+Running version from GIT  branch 'MFLIs'.
+Branch HEAD commit SHA1 hash 790a96df9f03252cb38d80eab99061a438410353.
+The working directory differs from the current head.
+Today's Data folder is not empty.
+Highest Measurement number: 6
+The value has been set accordingly.
+[2022-05-02 13:01:37] [CC] New measurement parameter table created.
+[2022-05-02 13:03:44] [CC] New measurement parameter table created.
+[2022-05-02 13:06:20] [CC] Measurement started by 'Hauke Brand'...
+----------------------------------------------------
+Status emails will be sent to users ''
+Settings saved to file: CC_Settings_M7.ini
+Sample under Test: ETI
+Status of running interfaces: 
+
+Further Commentary (Start): 
+header:
+pbc measruement 2.4 MHz, Input node: (4,1,3) A and B
+
+phase shifts [°]:
+
+5260: -25.08,
+4253: -22.7725,
+5270: -29.5176,
+5274: -29.5436
+
+20 Ohms shunt resistor, 2 Vpp input voltage.
+Exchanged multiplexer board 01 with multiplexer board 06.
+Exchanged multiplexer board 02 with multiplexer board 05.
+----------------------------------------------------
+[2022-05-02 13:06:20] [FCM] Measurement starting with inner loop counter 7.
+[2022-05-02 15:00:36] [CC] Abort button pressed for the first time. Measurement will be stopped at next possibility...
+[2022-05-02 15:00:42] [FCM] Measurement aborted at position 1 in inner loop counter 19.
+[2022-05-02 15:00:42] [CC] Measurement ended after 6863 seconds.
+[2022-05-02 15:54:12] [CC] New measurement parameter table created.
+[2022-05-02 15:54:33] [CC] Measurement started by 'Hauke Brand'...
+----------------------------------------------------
+Status emails will be sent to users ''
+Settings saved to file: CC_Settings_M20.ini
+Sample under Test: ETI
+Status of running interfaces: 
+
+Further Commentary (Start): 
+Current measurement:
+
+current reference: 8.52675 A_rms
+
+phase shifts [°]:
+
+5260: -26.05,
+
+
+header:
+pbc measruement 2.4 MHz, Input node: (4,1,3) A and B
+
+phase shifts [°]:
+
+5260: -25.08,
+4253: -22.7725,
+5270: -29.5176,
+5274: -29.5436
+
+20 Ohms shunt resistor, 2 Vpp input voltage.
+Exchanged multiplexer board 01 with multiplexer board 06.
+Exchanged multiplexer board 02 with multiplexer board 05.
+----------------------------------------------------
+[2022-05-02 15:54:33] [FCM] Measurement starting with inner loop counter 20.
+[2022-05-02 15:55:16] [FCM] Measurement finished as planned at inner loop counter 20.
+[2022-05-02 15:55:16] [CC] Measurement ended after 43 seconds.
+[2022-05-02 15:57:59] [CC] Exiting ControlCenter.vi.

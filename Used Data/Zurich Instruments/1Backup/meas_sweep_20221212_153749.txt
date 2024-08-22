@@ -1,0 +1,6 @@
+% Module: Sweep, ID: c0p1t8p1cfm0
+% Devices: DEV3854
+% Time: 2022/12/12 15:37:49
+% Demod 1 Sample R, /dev3854/demods/0/sample.R
+% Demod 1 Sample Phase, /dev3854/demods/0/sample.Theta
+% Frequency (Hz), Demod 1 Sample R  Amplitude (V), Demod 1 Sample Phase  Phase (deg)

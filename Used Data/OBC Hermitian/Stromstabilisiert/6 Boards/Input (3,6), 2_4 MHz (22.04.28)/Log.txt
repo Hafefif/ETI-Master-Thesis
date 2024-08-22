@@ -1,0 +1,303 @@
+[2022-04-27 09:57:01] [CC] ControlCenter.vi started.
+Running version from GIT  branch 'MFLIs'.
+Branch HEAD commit SHA1 hash 790a96df9f03252cb38d80eab99061a438410353.
+The working directory differs from the current head.
+Created this folder and log file.
+[2022-04-27 09:57:15] [CC] New measurement parameter table created.
+[2022-04-27 09:59:59] [CC] Measurement started by 'Hauke Brand'...
+----------------------------------------------------
+Status emails will be sent to users ''
+Settings saved to file: CC_Settings_M1.ini
+Sample under Test: ETI
+Status of running interfaces: 
+
+Further Commentary (Start): 
+Impedance check with Layers: 2,3,4,5,7,8
+
+0.75 MHz to 3.5 MHz in 1025 steps.
+
+Signal: 0.3 Vpp.
+
+First quadrant.
+
+All multiplexer boards attached.
+----------------------------------------------------
+[2022-04-27 10:00:00] [FCM] Measurement starting with inner loop counter 1.
+[2022-04-27 10:00:20] [FCM] Measurement finished as planned at inner loop counter 2.
+[2022-04-27 10:00:20] [CC] Measurement ended after 20 seconds.
+[2022-04-27 10:00:24] [CC] New measurement parameter table created.
+[2022-04-27 10:00:44] [CC] Measurement started by 'Hauke Brand'...
+----------------------------------------------------
+Status emails will be sent to users ''
+Settings saved to file: CC_Settings_M3.ini
+Sample under Test: ETI
+Status of running interfaces: 
+
+Further Commentary (Start): 
+Impedance check with Layers: 2,3,4,5,7,8
+
+0.75 MHz to 3.5 MHz in 1025 steps.
+
+Signal: 0.3 Vpp.
+
+First quadrant.
+
+All multiplexer boards attached.
+----------------------------------------------------
+[2022-04-27 10:00:44] [FCM] Measurement starting with inner loop counter 3.
+[2022-04-27 10:37:58] [FCM] Measurement finished as planned at inner loop counter 4.
+[2022-04-27 10:37:59] [CC] Measurement ended after 2234 seconds.
+[2022-04-27 10:38:20] [CC] New measurement parameter table created.
+[2022-04-27 10:39:35] [CC] Measurement started by 'Hauke Brand'...
+----------------------------------------------------
+Status emails will be sent to users ''
+Settings saved to file: CC_Settings_M5.ini
+Sample under Test: ETI
+Status of running interfaces: 
+
+Further Commentary (Start): 
+Impedance check with Layers: 2,3,4,5,7,8
+
+0.75 MHz to 3.5 MHz in 1025 steps.
+
+Signal: 0.3 Vpp.
+
+First quadrant.
+
+All multiplexer boards attached.
+----------------------------------------------------
+[2022-04-27 10:39:35] [FCM] Measurement starting with inner loop counter 5.
+[2022-04-27 11:57:22] [FCM] Measurement finished as planned at inner loop counter 8.
+[2022-04-27 11:57:22] [CC] Measurement ended after 4667 seconds.
+[2022-04-27 12:44:55] [CC] New measurement parameter table created.
+[2022-04-27 12:44:58] [CC] New measurement parameter table created.
+[2022-04-27 12:47:54] [CC] Measurement started by 'Hauke Brand'...
+----------------------------------------------------
+Status emails will be sent to users ''
+Settings saved to file: CC_Settings_M9.ini
+Sample under Test: ETI
+Status of running interfaces: 
+
+Further Commentary (Start): 
+Impedance check with Layers: 2,3,4,5,7,8
+
+obc measruement 2.4 MHz, Input node: (3,6,All) A and B
+
+phase shifts [°]:
+5260: -24.8866,
+4253: -23.6028,
+5270: -23.2604,
+5274: -29.5157
+
+20 Ohms shunt resistor, current reference: 2 mA_rms.
+slope for current stabilization: 110.181.
+
+Current measured differentially over shunt resistor by PicoScope4000 HT379/187.
+
+Layer 01.
+----------------------------------------------------
+[2022-04-27 12:47:54] [FCM] Measurement starting with inner loop counter 9.
+[2022-04-27 12:48:00] [CC] Abort button pressed for the first time. Measurement will be stopped at next possibility...
+[2022-04-27 12:48:06] [FCM] Measurement aborted at position 1 in inner loop counter 9.
+[2022-04-27 12:48:06] [CC] Measurement ended after 12 seconds.
+[2022-04-27 12:49:38] [CC] Measurement started by 'Hauke Brand'...
+----------------------------------------------------
+Status emails will be sent to users ''
+Settings saved to file: CC_Settings_M10.ini
+Sample under Test: ETI
+Status of running interfaces: 
+
+Further Commentary (Start): 
+Impedance check with Layers: 2,3,4,5,7,8
+
+obc measruement 2.4 MHz, Input node: (3,6,All) A and B
+
+phase shifts [°]:
+5260: -24.8866,
+4253: -23.6028,
+5270: -23.2604,
+5274: -29.5157
+
+20 Ohms shunt resistor, current reference: 2 mA_rms.
+slope for current stabilization: 110.181.
+
+Current measured differentially over shunt resistor by PicoScope4000 HT379/187.
+
+Layer 01.
+----------------------------------------------------
+[2022-04-27 12:49:38] [FCM] Measurement starting with inner loop counter 10.
+[2022-04-27 14:11:09] [FCM] Measurement finished as planned at inner loop counter 21.
+[2022-04-27 14:11:09] [CC] Measurement ended after 4891 seconds.
+[2022-04-27 14:14:41] [CC] Measurement started by 'Hauke Brand'...
+----------------------------------------------------
+Status emails will be sent to users ''
+Settings saved to file: CC_Settings_M22.ini
+Sample under Test: ETI
+Status of running interfaces: 
+
+Further Commentary (Start): 
+Impedance check with Layers: 2,3,4,5,7,8
+
+obc measruement 2.4 MHz, Input node: (3,6,All) A and B
+
+phase shifts [°]:
+5260: -24.8866,
+4253: -23.6028,
+5270: -23.2604,
+5274: -29.5157
+
+20 Ohms shunt resistor, current reference: 2 mA_rms.
+slope for current stabilization: 110.181.
+
+Current measured differentially over shunt resistor by PicoScope4000 HT379/187.
+
+Layer 02.
+----------------------------------------------------
+[2022-04-27 14:14:41] [FCM] Measurement starting with inner loop counter 22.
+[2022-04-28 08:59:11] [FCM] Measurement finished as planned at inner loop counter 33.
+[2022-04-28 08:59:11] [CC] Measurement ended after 67470 seconds.
+[2022-04-28 09:02:32] [CC] Measurement started by 'Hauke Brand'...
+----------------------------------------------------
+Status emails will be sent to users ''
+Settings saved to file: CC_Settings_M34.ini
+Sample under Test: ETI
+Status of running interfaces: 
+
+Further Commentary (Start): 
+Impedance check with Layers: 2,3,4,5,7,8
+
+obc measruement 2.4 MHz, Input node: (3,6,All) A and B
+
+phase shifts [°]:
+5260: -24.8866,
+4253: -23.6028,
+5270: -23.2604,
+5274: -29.5157
+
+20 Ohms shunt resistor, current reference: 2 mA_rms.
+slope for current stabilization: 110.181.
+
+Current measured differentially over shunt resistor by PicoScope4000 HT379/187.
+
+Layer 03.
+----------------------------------------------------
+[2022-04-28 09:02:32] [FCM] Measurement starting with inner loop counter 34.
+[2022-04-28 11:32:21] [FCM] Measurement finished as planned at inner loop counter 45.
+[2022-04-28 11:32:21] [CC] Measurement ended after 8989 seconds.
+[2022-04-28 11:34:33] [CC] Measurement started by 'Hauke Brand'...
+----------------------------------------------------
+Status emails will be sent to users ''
+Settings saved to file: CC_Settings_M46.ini
+Sample under Test: ETI
+Status of running interfaces: 
+
+Further Commentary (Start): 
+Impedance check with Layers: 2,3,4,5,7,8
+
+obc measruement 2.4 MHz, Input node: (3,6,All) A and B
+
+phase shifts [°]:
+5260: -24.8866,
+4253: -23.6028,
+5270: -23.2604,
+5274: -29.5157
+
+20 Ohms shunt resistor, current reference: 2 mA_rms.
+slope for current stabilization: 110.181.
+
+Current measured differentially over shunt resistor by PicoScope4000 HT379/187.
+
+Layer 04.
+----------------------------------------------------
+[2022-04-28 11:34:33] [FCM] Measurement starting with inner loop counter 46.
+[2022-04-28 13:12:54] [FCM] Measurement finished as planned at inner loop counter 57.
+[2022-04-28 13:12:55] [CC] Measurement ended after 5902 seconds.
+[2022-04-28 13:15:23] [CC] Measurement started by 'Hauke Brand'...
+----------------------------------------------------
+Status emails will be sent to users ''
+Settings saved to file: CC_Settings_M58.ini
+Sample under Test: ETI
+Status of running interfaces: 
+
+Further Commentary (Start): 
+Impedance check with Layers: 2,3,4,5,7,8
+
+obc measruement 2.4 MHz, Input node: (3,6,All) A and B
+
+phase shifts [°]:
+5260: -24.8866,
+4253: -23.6028,
+5270: -23.2604,
+5274: -29.5157
+
+20 Ohms shunt resistor, current reference: 2 mA_rms.
+slope for current stabilization: 110.181.
+
+Current measured differentially over shunt resistor by PicoScope4000 HT379/187.
+
+Layer 05.
+----------------------------------------------------
+[2022-04-28 13:15:23] [FCM] Measurement starting with inner loop counter 58.
+[2022-04-28 15:10:01] [FCM] Measurement finished as planned at inner loop counter 69.
+[2022-04-28 15:10:02] [CC] Measurement ended after 6879 seconds.
+[2022-04-28 15:15:29] [CC] Measurement started by 'Hauke Brand'...
+----------------------------------------------------
+Status emails will be sent to users ''
+Settings saved to file: CC_Settings_M70.ini
+Sample under Test: ETI
+Status of running interfaces: 
+
+Further Commentary (Start): 
+Impedance check with Layers: 2,3,4,5,7,8
+
+obc measruement 2.4 MHz, Input node: (3,6,All) A and B
+
+phase shifts [°]:
+5260: -24.8866,
+4253: -23.6028,
+5270: -23.2604,
+5274: -29.5157
+
+20 Ohms shunt resistor, current reference: 2 mA_rms.
+slope for current stabilization: 110.181.
+
+Current measured differentially over shunt resistor by PicoScope4000 HT379/187.
+
+Layer 06.
+----------------------------------------------------
+[2022-04-28 15:15:29] [FCM] Measurement starting with inner loop counter 70.
+[2022-04-28 16:57:55] [FCM] Measurement finished as planned at inner loop counter 81.
+[2022-04-28 16:57:55] [CC] Measurement ended after 6146 seconds.
+[2022-04-28 17:04:20] [CC] New measurement parameter table created.
+[2022-04-28 17:04:27] [CC] Measurement started by 'Hauke Brand'...
+----------------------------------------------------
+Status emails will be sent to users ''
+Settings saved to file: CC_Settings_M82.ini
+Sample under Test: ETI
+Status of running interfaces: 
+
+Further Commentary (Start): 
+Current measurement of measurement below:
+
+phase shifts [°]:
+5260: -25.9366
+
+obc measruement 2.4 MHz, Input node: (3,6,All) A and B
+
+phase shifts [°]:
+5260: -24.8866,
+4253: -23.6028,
+5270: -23.2604,
+5274: -29.5157
+
+20 Ohms shunt resistor, current reference: 2 mA_rms.
+slope for current stabilization: 110.181.
+
+Current measured differentially over shunt resistor by PicoScope4000 HT379/187.
+
+Layer 06.
+----------------------------------------------------
+[2022-04-28 17:04:27] [FCM] Measurement starting with inner loop counter 82.
+[2022-04-28 17:10:33] [FCM] Measurement finished as planned at inner loop counter 87.
+[2022-04-28 17:10:33] [CC] Measurement ended after 366 seconds.
+[2022-04-28 17:10:39] [CC] Exiting ControlCenter.vi.

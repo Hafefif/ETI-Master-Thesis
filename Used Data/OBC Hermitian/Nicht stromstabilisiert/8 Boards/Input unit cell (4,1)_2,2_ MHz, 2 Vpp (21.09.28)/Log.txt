@@ -1,0 +1,183 @@
+[2021-09-28 10:05:04] [CC] ControlCenter.vi started.
+Running version from GIT  branch 'MFLIs'.
+Branch HEAD commit SHA1 hash da4dea9d206c986e18bf28218d35366c613b2dc6.
+The working directory differs from the current head.
+Created this folder and log file.
+[2021-09-28 10:33:23] [CC] New measurement parameter table created.
+[2021-09-28 10:34:17] [CC] New measurement parameter table created.
+[2021-09-28 10:34:34] [CC] New measurement parameter table created.
+[2021-09-28 10:35:08] [CC] New measurement parameter table created.
+[2021-09-28 10:37:56] [CC] New measurement parameter table created.
+[2021-09-28 10:40:11] [CC] New measurement parameter table created.
+[2021-09-28 11:18:22] [CC] New measurement parameter table created.
+[2021-09-28 11:23:53] [CC] Measurement started by 'Stefan Imhof'...
+----------------------------------------------------
+Status emails will be sent to users ''
+Settings saved to file: CC_Settings_M1.ini
+Sample under Test: ETI_OBC
+Status of running interfaces: 
+Warning: Could not generate parameter report for MFLI
+-   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -
+Further Commentary (Start): CurrentInput 4,1,All A and 4,1,All B , f=2.2MHz, Output of 5260 Vpp=2V, shunt resistor 20Ohm, Voltage measurement phase correction manual. 4253: -6,69681° 5260: -9,09479° 5270: -9,19453° 5274: -15,5689°
+----------------------------------------------------
+[2021-09-28 11:23:53] [FCM] Measurement starting with inner loop counter 1.
+[2021-09-28 11:25:31] [CC] Abort button pressed for the first time. Measurement will be stopped at next possibility...
+[2021-09-28 11:25:36] [FCM] Measurement aborted at position 2 in inner loop counter 1.
+[2021-09-28 11:25:36] [CC] Measurement ended after 104 seconds.
+[2021-09-28 11:25:37] [GCP] 'git fetch' failed with return code 128.
+Standard output:
+
+Standard error:
+Host key verification failed.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+[2021-09-28 11:25:56] [Stefan Imhof] MeasDevices not correct...
+[2021-09-28 11:26:05] [CC] Measurement started by 'Stefan Imhof'...
+----------------------------------------------------
+Status emails will be sent to users ''
+Settings saved to file: CC_Settings_M2.ini
+Sample under Test: ETI_OBC
+Status of running interfaces: 
+Warning: Could not generate parameter report for MFLI
+-   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -
+Further Commentary (Start): CurrentInput 4,1,All A and 4,1,All B , f=2.2MHz, Output of 5260 Vpp=2V, shunt resistor 20Ohm, Voltage measurement phase correction manual. 4253: -6,69681° 5260: -9,09479° 5270: -9,19453° 5274: -15,5689°
+----------------------------------------------------
+[2021-09-28 11:26:05] [FCM] Measurement starting with inner loop counter 2.
+[2021-09-29 13:42:43] [CC] Pause button activated. 
+[2021-09-29 13:42:46] [MP] Entering Pause state at inner loop counter 92 and position 3 within inner loop. Status: Unset Increment Devices.
+[2021-09-29 13:43:28] [CC] Pause button deactivated. 
+[2021-09-29 13:43:29] [MP] Leaving Pause state after 43 seconds.
+[2021-09-29 16:38:46] [FCM] Measurement finished as planned at inner loop counter 129.
+[2021-09-29 16:38:46] [CC] Measurement ended after 105161 seconds.
+[2021-09-29 16:43:19] [CC] New measurement parameter table created.
+[2021-09-29 16:44:10] [CC] Measurement started by 'Stefan Imhof'...
+----------------------------------------------------
+Status emails will be sent to users ''
+Settings saved to file: CC_Settings_M130.ini
+Sample under Test: ETI_OBC
+Status of running interfaces: 
+Warning: Could not generate parameter report for MFLI
+-   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -
+Further Commentary (Start): CurrentInput 4,1,All A and 4,1,All B , f=2.2MHz, Output of 5260 Vpp=2V, shunt resistor 20Ohm, Voltage measurement phase correction manual. 4253: -6,69681° 5260: -9,09479° 5270: -9,19453° 5274: -15,5689°
+
+Wrong data correction: Layer 1, current input layer 6 input position 8.
+----------------------------------------------------
+[2021-09-29 16:44:10] [FCM] Measurement starting with inner loop counter 130.
+[2021-09-29 16:47:04] [CC] Abort button pressed for the first time. Measurement will be stopped at next possibility...
+[2021-09-29 16:47:05] [CC] Abort button pressed again. FastCoreMeasurement.vi is terminated now.
+[2021-09-29 16:47:06] [CC] Measurement ended after 175 seconds.
+[2021-09-29 16:47:21] [CC] Measurement started by 'Stefan Imhof'...
+----------------------------------------------------
+Status emails will be sent to users ''
+Settings saved to file: CC_Settings_M131.ini
+Sample under Test: ETI_OBC
+Status of running interfaces: 
+Warning: Could not generate parameter report for MFLI
+-   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -
+Further Commentary (Start): CurrentInput 4,1,All A and 4,1,All B , f=2.2MHz, Output of 5260 Vpp=2V, shunt resistor 20Ohm, Voltage measurement phase correction manual. 4253: -6,69681° 5260: -9,09479° 5270: -9,19453° 5274: -15,5689°
+
+Wrong data correction: Layer 1, current input layer 6 input position 8.
+----------------------------------------------------
+[2021-09-29 16:47:21] [FCM] Measurement starting with inner loop counter 131.
+[2021-09-29 16:47:30] [CC] Abort button pressed for the first time. Measurement will be stopped at next possibility...
+[2021-09-29 16:47:32] [CC] Abort button pressed again. FastCoreMeasurement.vi is terminated now.
+[2021-09-29 16:47:32] [CC] Measurement ended after 11 seconds.
+[2021-09-29 16:48:18] [CC] New measurement parameter table created.
+[2021-09-29 16:48:21] [CC] Measurement started by 'Stefan Imhof'...
+----------------------------------------------------
+Status emails will be sent to users ''
+Settings saved to file: CC_Settings_M132.ini
+Sample under Test: ETI_OBC
+Status of running interfaces: 
+Warning: Could not generate parameter report for MFLI
+-   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -
+Further Commentary (Start): CurrentInput 4,1,All A and 4,1,All B , f=2.2MHz, Output of 5260 Vpp=2V, shunt resistor 20Ohm, Voltage measurement phase correction manual. 4253: -6,69681° 5260: -9,09479° 5270: -9,19453° 5274: -15,5689°
+
+Wrong data correction: Layer 1, current input layer 6 input position 8.
+----------------------------------------------------
+[2021-09-29 16:48:21] [FCM] Measurement starting with inner loop counter 132.
+[2021-09-29 16:52:45] [FCM] Measurement finished as planned at inner loop counter 132.
+[2021-09-29 16:52:45] [CC] Measurement ended after 264 seconds.
+[2021-09-29 16:52:49] [CC] New measurement parameter table created.
+[2021-09-29 16:53:50] [CC] Measurement started by 'Stefan Imhof'...
+----------------------------------------------------
+Status emails will be sent to users ''
+Settings saved to file: CC_Settings_M133.ini
+Sample under Test: ETI_OBC
+Status of running interfaces: 
+Warning: Could not generate parameter report for MFLI
+-   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -
+Further Commentary (Start): CurrentInput 4,1,All A and 4,1,All B , f=2.2MHz, Output of 5260 Vpp=2V, shunt resistor 20Ohm, Voltage measurement phase correction manual. 4253: -6,69681° 5260: -9,09479° 5270: -9,19453° 5274: -15,5689°
+
+Wrong data correction: Layer 5, current input layer 6 input position ALL and current input layer 7 input position 8.
+----------------------------------------------------
+[2021-09-29 16:53:50] [FCM] Measurement starting with inner loop counter 133.
+[2021-09-29 17:12:41] [FCM] Measurement finished as planned at inner loop counter 135.
+[2021-09-29 17:12:41] [CC] Measurement ended after 1131 seconds.
+[2021-09-29 17:15:45] [CC] New measurement parameter table created.
+[2021-09-29 17:18:22] [CC] Measurement started by 'Stefan Imhof'...
+----------------------------------------------------
+Status emails will be sent to users ''
+Settings saved to file: CC_Settings_M136.ini
+Sample under Test: ETI_OBC
+Status of running interfaces: 
+Warning: Could not generate parameter report for MFLI
+-   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -
+Further Commentary (Start): CurrentInput 4,1,All A and 4,1,All B , f=2.2MHz, Output of 5260 Vpp=2V, shunt resistor 20Ohm, Voltage measurement phase correction manual. 4253: -6,69681° 5260: -9,09479° 5270: -9,19453° 5274: -15,5689°
+
+Wrong data correction: Layer 6, current input layer 3 input position 8.
+----------------------------------------------------
+[2021-09-29 17:18:22] [FCM] Measurement starting with inner loop counter 136.
+[2021-09-29 17:22:34] [FCM] Measurement finished as planned at inner loop counter 136.
+[2021-09-29 17:22:34] [CC] Measurement ended after 252 seconds.
+[2021-09-29 17:25:01] [CC] New measurement parameter table created.
+[2021-09-29 17:25:16] [CC] Measurement started by 'Stefan Imhof'...
+----------------------------------------------------
+Status emails will be sent to users ''
+Settings saved to file: CC_Settings_M137.ini
+Sample under Test: ETI_OBC
+Status of running interfaces: 
+Warning: Could not generate parameter report for MFLI
+-   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -
+Further Commentary (Start): CurrentInput 4,1,All A and 4,1,All B , f=2.2MHz, Output of 5260 Vpp=2V, shunt resistor 20Ohm, Voltage measurement phase correction manual. 4253: -6,69681° 5260: -9,09479° 5270: -9,19453° 5274: -15,5689°
+
+Wrong data correction: Layer 6, current input layer 6 input position 8.
+----------------------------------------------------
+[2021-09-29 17:25:16] [FCM] Measurement starting with inner loop counter 137.
+[2021-09-29 17:29:33] [FCM] Measurement finished as planned at inner loop counter 137.
+[2021-09-29 17:29:33] [CC] Measurement ended after 257 seconds.
+[2021-09-29 17:32:20] [CC] New measurement parameter table created.
+[2021-09-29 17:32:24] [CC] Measurement started by 'Stefan Imhof'...
+----------------------------------------------------
+Status emails will be sent to users ''
+Settings saved to file: CC_Settings_M138.ini
+Sample under Test: ETI_OBC
+Status of running interfaces: 
+Warning: Could not generate parameter report for MFLI
+-   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -
+Further Commentary (Start): CurrentInput 4,1,All A and 4,1,All B , f=2.2MHz, Output of 5260 Vpp=2V, shunt resistor 20Ohm, Current measurement phase correction manual. 5260: -5,0229° 
+
+----------------------------------------------------
+[2021-09-29 17:32:24] [FCM] Measurement starting with inner loop counter 138.
+[2021-09-29 17:34:37] [CC] Abort button pressed for the first time. Measurement will be stopped at next possibility...
+[2021-09-29 17:34:39] [CC] Abort button pressed again. FastCoreMeasurement.vi is terminated now.
+[2021-09-29 17:34:39] [CC] Measurement ended after 135 seconds.
+[2021-09-29 17:34:58] [Stefan Imhof] Differential measurement forgotten.
+[2021-09-29 17:36:57] [CC] Measurement started by 'Stefan Imhof'...
+----------------------------------------------------
+Status emails will be sent to users ''
+Settings saved to file: CC_Settings_M139.ini
+Sample under Test: ETI_OBC
+Status of running interfaces: 
+Warning: Could not generate parameter report for MFLI
+-   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -   -
+Further Commentary (Start): CurrentInput 4,1,All A and 4,1,All B , f=2.2MHz, Output of 5260 Vpp=2V, shunt resistor 20Ohm, Current measurement phase correction manual. 5260: -5,01238° 
+
+----------------------------------------------------
+[2021-09-29 17:36:57] [FCM] Measurement starting with inner loop counter 139.
+[2021-09-29 17:39:43] [FCM] Measurement finished as planned at inner loop counter 139.
+[2021-09-29 17:39:43] [CC] Measurement ended after 166 seconds.
+[2021-09-29 17:39:51] [CC] Exiting ControlCenter.vi.
